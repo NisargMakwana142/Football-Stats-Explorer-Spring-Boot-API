@@ -1,4 +1,4 @@
-# Football Stats Explorer – Spring Boot API
+# Football Stats Explorer: Spring Boot API
 
 A RESTful backend application built with **Spring Boot** and **PostgreSQL** for managing and querying football player statistics.  
 This API serves structured and filterable player data, making it easy to build dashboards, analytics tools, or frontend applications on top of it.
